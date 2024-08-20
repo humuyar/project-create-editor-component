@@ -1,3 +1,5 @@
+
+const MarkdownPreviewer = () => { 
 const placeholder = `
 # Sample Markdown Header Level
 
@@ -40,3 +42,8 @@ I think you should use an \`<addr>\` element here instead.
 
 I just love **bold text**.
 `;
+const [markdown, setMarkdown] = useState(placeholder);  
+
+const handleChange = (event) => {  
+  setMarkdown(event.target.value);  
+};
