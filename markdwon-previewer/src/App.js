@@ -1,12 +1,10 @@
 import './App.css';
+import MarkdownPreviwer from './placeholder';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-      <h2>humi</h2>
-      
-      </header>
+    <div>
+      <MarkdownPreviwer />
     </div>
   );
 }
