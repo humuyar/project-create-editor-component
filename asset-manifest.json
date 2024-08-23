@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/humuyar/project-markdown-previewer/static/css/main.97b61163.css",
+    "main.js": "/humuyar/project-markdown-previewer/static/js/main.9c67cfde.js",
+    "static/js/453.5e6dc815.chunk.js": "/humuyar/project-markdown-previewer/static/js/453.5e6dc815.chunk.js",
+    "index.html": "/humuyar/project-markdown-previewer/index.html",
+    "main.97b61163.css.map": "/humuyar/project-markdown-previewer/static/css/main.97b61163.css.map",
+    "main.9c67cfde.js.map": "/humuyar/project-markdown-previewer/static/js/main.9c67cfde.js.map",
+    "453.5e6dc815.chunk.js.map": "/humuyar/project-markdown-previewer/static/js/453.5e6dc815.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97b61163.css",
+    "static/js/main.9c67cfde.js"
+  ]
+}
